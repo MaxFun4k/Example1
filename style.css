@@ -44,6 +44,7 @@ body{
     background: #11111b;
     color: #fff;
     line-height: 1.5;
+    min-width: 1490px;
 }
 
 .header{
